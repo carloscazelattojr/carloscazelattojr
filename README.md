@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjunior1983@gmail.com)](mailto:carlosjunior1983@gmail.com)
 
 ## Tecnologias e Interesses:
-`Javascript` `Typescript` `React` `React Native` `Node` `PHP` `ADvPL` `HTML` `CSS` `Delphi` `C#` `...`
+`Javascript` `Typescript` `React` `React Native` `Node` `PHP` `ADvPL` `HTML` `CSS` `Delphi` `C#` `Go` `...`
 
 `Oracle` `MySQL` `MS SqlServer` `PLSQL` `...`
 
