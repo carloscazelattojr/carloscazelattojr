@@ -14,3 +14,15 @@
 
 
 :fist_oncoming:
+
+
+Modelos de Badges:
+
+[![Github Badge]
+[![Linkedin Badge]
+[![Stackoverflow Badge]
+[![Twitter Badge]
+[![Whatsapp Badge]
+[![Telegram Badge]
+[![Gmail Badge]
+
