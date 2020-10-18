@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/carlosjunior)](https://t.me/carlosjunior)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjunior1983@gmail.com)](mailto:carlosjunior1983@gmail.com)
 
-## Tecnologias e Interesses:
+## Technologies
 `Javascript` `Typescript` `React` `React Native` `Node` `PHP` `ADvPL` `HTML` `CSS` `Delphi` `C#` `Go` `Docker` `...`
 
 `Oracle` `MySQL` `MS SqlServer` `PLSQL` `...`
