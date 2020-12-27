@@ -16,6 +16,11 @@
 
 ## Knowledge / Projects
 
+[Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
+[Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
+
+
+
 ## Studies
 
 [Go Lang](https://github.com/carlosjunior1983/GoLang)
