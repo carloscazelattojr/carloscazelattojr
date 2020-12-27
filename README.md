@@ -20,11 +20,14 @@
 
 - [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
 
-- [Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
+- [Jogo da memória](https://github.com/carlosjunior1983/jogo-memoria-js) `Html` `Css` `JS`
 
+- [Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
 
 
 ## Studies
 
 - [Go Lang](https://github.com/carlosjunior1983/GoLang)
+
+- [Placeholder Animado](https://github.com/carlosjunior1983/placeholder_animado)
 
