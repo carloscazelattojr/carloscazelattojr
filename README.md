@@ -16,6 +16,8 @@
 
 ## Knowledge / Projects
 
+- [Ecoleta](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
+
 - [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
 
 - [Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
