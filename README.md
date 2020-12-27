@@ -6,11 +6,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjunior1983@gmail.com)](mailto:carlosjunior1983@gmail.com)
 
 ## Technologies
-`Javascript` `Typescript` `React` `React Native` `Node` `PHP` `ADvPL` `HTML` `CSS` `Delphi` `C#` `Go` `Docker` `...`
+`Javascript` `Typescript` `React` `React Native` `Node` `PHP` `HTML` `CSS` `Docker` `...`
 
-`Oracle` `MySQL` `MS SqlServer` `PLSQL` `...`
+`Oracle` `MySQL` `MS SqlServer` `PL/SQL` `...`
 
 `Code Clean` `Clean Architecture` `SOLID` `OO` `Design Pattern` `...`
 
-
 :fist_oncoming:
+
+## Knowledge / Projects
+
