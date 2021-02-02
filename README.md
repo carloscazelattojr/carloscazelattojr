@@ -6,6 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjunior1983@gmail.com)](mailto:carlosjunior1983@gmail.com)
 
 ## Technologies
+`Java`
+
 `Javascript` `Typescript` `React` `React Native` `Node` `PHP` `HTML` `CSS` `Docker` `...`
 
 `Oracle` `MySQL` `MS SqlServer` `PL/SQL` `...`
@@ -31,4 +33,6 @@
 - [Go Lang](https://github.com/carlosjunior1983/GoLang)
 
 - [Placeholder Animado](https://github.com/carlosjunior1983/placeholder_animado)
+
+- [Campo Minado (console) em Java/ (https://github.com/carlosjunior1983/campo-minado-java)
 
