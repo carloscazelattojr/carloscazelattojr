@@ -34,7 +34,7 @@
 
 - [Placeholder Animado](https://github.com/carlosjunior1983/placeholder_animado)
 
-- [Campo_Minado_console_Java](https://github.com/carlosjunior1983/campo-minado-java)
+- [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java)
 
 
 
