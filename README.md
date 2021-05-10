@@ -40,6 +40,8 @@
 
 - [Ecoleta - NLW1 - RocketSeat](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
 
+- [Covid-19 - PWA - DIO](https://github.com/carlosjunior1983/covid19-pwa-react) `React` `PWA`
+
 - [Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java) `Spring` `React` `Typescript` `Axios` `Java`
 
 
