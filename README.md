@@ -16,10 +16,12 @@
 
 :fist_oncoming:
 
-## Knowledge / Projects
+
+## All Repositories
 - [ALL Repositories](https://github.com/carlosjunior1983?tab=repositories) `...`
 
-- [Ecoleta](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
+
+## Knowledge / Courses
 
 - [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
 
@@ -27,17 +29,18 @@
 
 - [Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
 
+- [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
 
-## Studies
-
-- [Bootcamp: Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java)
-
-- [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java)
-
-- [Go Lang](https://github.com/carlosjunior1983/GoLang)
+- [Go Lang](https://github.com/carlosjunior1983/GoLang) `Go`
 
 - [Placeholder Animado](https://github.com/carlosjunior1983/placeholder_animado)
 
+
+## Bootcamp's 
+
+- [Ecoleta - NLW RocketSeat](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
+
+- [Bootcamp: Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java) `Spring` `Axios` `React` `Typescript` `Java`
 
 
 
