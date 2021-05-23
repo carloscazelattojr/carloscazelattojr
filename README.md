@@ -4,7 +4,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544999513420&text=Olá!)](https://api.whatsapp.com/send?phone=5544999513420&text=Olá!)
 
 ## Technologies
-`Java`
+`Java` `Spring`
 
 `Javascript` `Typescript` `React` `React Native` `Node` `PHP` `HTML` `CSS` `Docker` `...`
 
