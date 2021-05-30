@@ -14,34 +14,34 @@
 :fist_oncoming:
 
 
-## All Repositories
+# All Repositories
 - [ALL Repositories](https://github.com/carlosjunior1983?tab=repositories) `...`
 
 
 ## Knowledge / Courses / Bootcamps 
 
-# Html / Css / JavaScript
+## Html / Css / JavaScript
 - [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
 
 - [Jogo da memória](https://github.com/carlosjunior1983/jogo-memoria-js) `Html` `Css` `JS`
 
 - [Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
 
-# Go
+## Go
 - [Go Lang](https://github.com/carlosjunior1983/GoLang) `Go`
 
-# PHP
+## PHP
 - [Placeholder Animado](https://github.com/carlosjunior1983/placeholder_animado) `PHP` 
 
 
-# NodeJS / React / React-Native / Typescript
+## NodeJS / React / React-Native / Typescript
 
 - [Ecoleta - NLW1 - RocketSeat](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
 
 - [Covid-19 - PWA - DIO](https://github.com/carlosjunior1983/covid19-pwa-react) `React` `PWA`
 
 
-# Java 
+## Java 
 
 - [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
 
