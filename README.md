@@ -1,10 +1,9 @@
- # Carlos Cazelatto Jr 🤘🏻 🇧🇷
+  # Carlos Cazelatto Jr 🤘🏻 🇧🇷
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5544999513420&text=Olá!)](https://api.whatsapp.com/send?phone=5544999513420&text=Olá!)
-
+ 
 ## Technologies
-`Java` `Spring`
+`Java` `Spring-Boot` `...`
 
 `Javascript` `Typescript` `React` `React Native` `Node` `PHP` `HTML` `CSS` `Docker` `...`
 
@@ -18,9 +17,41 @@
 ## All Repositories
 - [ALL Repositories](https://github.com/carlosjunior1983?tab=repositories) `...`
 
- 
 
+## Knowledge / Courses / Bootcamps 
+
+# Html / Css / JavaScript
+- [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
+
+- [Jogo da memória](https://github.com/carlosjunior1983/jogo-memoria-js) `Html` `Css` `JS`
+
+- [Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
+
+# Go
+- [Go Lang](https://github.com/carlosjunior1983/GoLang) `Go`
+
+# PHP
+- [Placeholder Animado](https://github.com/carlosjunior1983/placeholder_animado) `PHP` 
+
+
+# NodeJS / React / React-Native / Typescript
+
+- [Ecoleta - NLW1 - RocketSeat](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
+
+- [Covid-19 - PWA - DIO](https://github.com/carlosjunior1983/covid19-pwa-react) `React` `PWA`
+
+
+# Java 
+
+- [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
+
+- [Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java) `Spring` `React` `Typescript` `Axios` `Java`
+
+- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Sprint Cloud` 
+
+- [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot`  
 	
-	
 
+## Quick Configuration Files / Tips
 
+- [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
