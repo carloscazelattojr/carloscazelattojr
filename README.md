@@ -18,8 +18,6 @@
 - [ALL Repositories](https://github.com/carlosjunior1983?tab=repositories) `...`
 
 
-## Knowledge / Courses / Bootcamps 
-
 ## Html / Css / JavaScript
 - [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
 
