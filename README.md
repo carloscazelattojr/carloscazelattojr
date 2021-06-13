@@ -18,6 +18,24 @@
 - [ALL Repositories](https://github.com/carlosjunior1983?tab=repositories) `...`
 
 
+## Java 
+
+- [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
+
+- [Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java) `Spring` `React` `Typescript` `Axios` `Java`
+
+- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` 
+
+- [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot`  
+	
+- [Students Management System using Spring Boot and Thymeleaf - Sample](https://github.com/carlosjunior1983/springboot-web-app-students) `Java` `Spring Boot` `Thymeleaf`  
+	
+
+## Quick Configuration Files / Tips
+
+- [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
+
+
 ## Html / Css / JavaScript
 - [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
 
@@ -37,26 +55,6 @@
 - [Ecoleta - NLW1 - RocketSeat](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
 
 - [Covid-19 - PWA - DIO](https://github.com/carlosjunior1983/covid19-pwa-react) `React` `PWA`
-
-
-## Java 
-
-- [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
-
-- [Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java) `Spring` `React` `Typescript` `Axios` `Java`
-
-- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` 
-
-- [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot`  
-	
-- [Students Management System using Spring Boot and Thymeleaf - Sample](https://github.com/carlosjunior1983/springboot-web-app-students) `Java` `Spring Boot` `Thymeleaf`  
-	
-	
-	
-
-## Quick Configuration Files / Tips
-
-- [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
 
 
 
