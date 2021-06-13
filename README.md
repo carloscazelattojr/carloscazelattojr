@@ -45,11 +45,11 @@
 
 - [Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java) `Spring` `React` `Typescript` `Axios` `Java`
 
-- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Sprint Cloud` 
+- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` 
 
 - [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot`  
 	
-- [Students Management System using Spring Boot and Thymeleaf - Sample](https://github.com/carlosjunior1983/springboot-web-app-students) `Java` `Spring Boot`  
+- [Students Management System using Spring Boot and Thymeleaf - Sample](https://github.com/carlosjunior1983/springboot-web-app-students) `Java` `Spring Boot` `Thymeleaf`  
 	
 	
 	
