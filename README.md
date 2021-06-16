@@ -29,7 +29,11 @@
 - [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot`  
 	
 - [Students Management System using Spring Boot and Thymeleaf - Sample](https://github.com/carlosjunior1983/springboot-web-app-students) `Java` `Spring Boot` `Thymeleaf`  
-	
+
+- [Spring Boot Send Email using GMAIL](https://github.com/carlosjunior1983/springboot-send-email-gmail-java) `Java` `Spring Boot`
+
+
+
 
 ## Quick Configuration Files / Tips
 
