@@ -34,7 +34,7 @@
 
 - [Registration and login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL](https://github.com/carlosjunior1983/springboot-registration-login) `Java` `Spring Boot` `Spring Security` `Thymeleaf` `MySQL`
 
-- [Spring MVC: Created web app with Thymeleaf and Bootstrap - Project MUDI ](https://github.com/carlosjunior1983/springboot-send-email-gmail-java) `Java` `Spring Boot` `Thymeleaf` `Validation` `MySQL`
+- [Spring MVC: Created web app with Thymeleaf and Bootstrap - Project MUDI ](https://github.com/carlosjunior1983/springboot-mvc-project-mudi) `Java` `Spring Boot` `Thymeleaf` `Validation` `MySQL`
 
 
 
