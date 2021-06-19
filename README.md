@@ -24,7 +24,7 @@
 
 - [Semana Spring React/Java - DevSuperior](https://github.com/carlosjunior1983/projeto-sds3-java) `Spring` `React` `Typescript` `Axios` `Java`
 
-- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` 
+- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` `PostgSQL`
 
 - [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot` 
 	
@@ -34,11 +34,14 @@
 
 - [Registration and login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL](https://github.com/carlosjunior1983/springboot-registration-login) `Java` `Spring Boot` `Spring Security` `Thymeleaf` `MySQL`
 
+- [Spring MVC: Created web app with Thymeleaf and Bootstrap - Project MUDI ](https://github.com/carlosjunior1983/springboot-send-email-gmail-java) `Java` `Spring Boot` `Thymeleaf` `Validation` `MySQL`
+
+
 
 
 ## Quick Configuration Files / Tips
 
-- [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
+- [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/springboot-mvc-project-mudi)
 
 
 ## Html / Css / JavaScript
