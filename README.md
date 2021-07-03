@@ -45,7 +45,7 @@
 
 ## Quick Configuration Files / Tips
 
-- [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/springboot-mvc-project-mudi)
+- [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
 
 
 ## Html / Css / JavaScript
