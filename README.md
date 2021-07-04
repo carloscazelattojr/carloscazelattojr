@@ -36,7 +36,7 @@
 
 - [Spring MVC: Created web app with Thymeleaf and Bootstrap - Project MUDI ](https://github.com/carlosjunior1983/springboot-mvc-project-mudi) `Java` `Spring Boot` `Thymeleaf` `Validation` `MySQL`
 
-- [Spring Boop API REST: Forum ](https://github.com/carlosjunior1983/springboot-api-rest-forum) `Java` `Spring Boot` 
+- [Spring Boot API REST: Construa uma API - FORUM com Segurança da API, Cache e Monitoramento.](https://github.com/carlosjunior1983/springboot-api-rest-forum) `Java` `Spring Boot` `Spring MVC` `Spring Security` `MySql` `Cache` `Actuator` `Spring Boot Admin-Server`
 
 
 
