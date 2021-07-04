@@ -38,6 +38,8 @@
 
 - [Spring Boot API REST: Construa uma API - FORUM com Segurança da API, Cache e Monitoramento.](https://github.com/carlosjunior1983/springboot-api-rest-forum) `Java` `Spring Boot` `Spring MVC` `Spring Security` `MySql` `Cache` `Actuator` `Spring Boot Admin-Server`
 
+- [Spring Boot Admin-Server (For monitoring)](https://github.com/carlosjunior1983/springboot-admin-server-monitoring) `Java` `Spring Boot` `Spring Boot Admin-Server`
+
 
 
 
