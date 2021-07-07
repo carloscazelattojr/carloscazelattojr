@@ -1,12 +1,9 @@
-  # Carlos Cazelatto Jr 🤘🏻 🇧🇷
+  # Carlos Cazelatto Jr 🤘🏻 :fist_oncoming: 🇧🇷
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/)
  
-:fist_oncoming:
 
-
-# All Repositories
-- [ALL Repositories](https://github.com/carlosjunior1983?tab=repositories) `...`
+🚀 Constant learning and always ahead!
 
 
 ## Java (in study)
