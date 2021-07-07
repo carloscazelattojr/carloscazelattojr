@@ -2,15 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/)
  
-## Technologies
-`Java` `Spring-Boot` `...`
-
-`Javascript` `Typescript` `React` `React Native` `Node` `PHP` `HTML` `CSS` `Docker` `...`
-
-`Oracle` `MySQL` `MS SqlServer` `PL/SQL` `...`
-
-`Code Clean` `Clean Architecture` `SOLID` `OO` `Design Pattern` `...`
-
 :fist_oncoming:
 
 
@@ -18,7 +9,7 @@
 - [ALL Repositories](https://github.com/carlosjunior1983?tab=repositories) `...`
 
 
-## Java 
+## Java (in study)
 
 - [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
 
@@ -42,36 +33,8 @@
 
 
 
-
-
-
-## Quick Configuration Files / Tips
+## Quick Configuration Files / Tips (Java/Spring)
 
 - [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
-
-
-## Html / Css / JavaScript
-- [Pizzaria HTML](https://github.com/carlosjunior1983/pizzaria-html) `Html` `Css` `JS`
-
-- [Jogo da memória](https://github.com/carlosjunior1983/jogo-memoria-js) `Html` `Css` `JS`
-
-- [Flappy Bird's](https://github.com/carlosjunior1983/Flappy-Bird-JS) `JS`
-
-## Go
-- [Go Lang](https://github.com/carlosjunior1983/GoLang) `Go`
-
-## PHP
-- [Placeholder Animado](https://github.com/carlosjunior1983/placeholder_animado) `PHP` 
-
-
-## NodeJS / React / React-Native / Typescript
-
-- [Ecoleta - NLW1 - RocketSeat](https://github.com/carlosjunior1983/Ecoleta) `Node` `React` `JS` `Typescript` `React-Native` `Axios` `Express` `Knex` `Multer` `Celebrate`
-
-- [Covid-19 - PWA - DIO](https://github.com/carlosjunior1983/covid19-pwa-react) `React` `PWA`
-
-
-
-
 
 
