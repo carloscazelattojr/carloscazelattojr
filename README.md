@@ -28,6 +28,12 @@
 
 - [Spring Boot Admin-Server (For monitoring)](https://github.com/carlosjunior1983/springboot-admin-server-monitoring) `Java` `Spring Boot` `Spring Boot Admin-Server`
 
+- [Spring Boot CRUD AWS Deployment (Simple Example)](https://github.com/carlosjunior1983/springboot-aws-deploy) `Java` `Spring Boot` `AWS`
+
+
+
+
+
 
 
 ## Quick Configuration Files / Tips (Java/Spring)
