@@ -1,8 +1,8 @@
-  # Carlos Cazelatto Jr 🤘🏻 :fist_oncoming: 🇧🇷 <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=leandrocgsi.visitor-badge)</a>
+  # Carlos Cazelatto Jr 🤘🏻 :fist_oncoming: 🇧🇷 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/)
- 
+ <a>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=carlosjunior1983.visitor-badge)</a>
 
 🚀 Constant learning and always ahead!
 
