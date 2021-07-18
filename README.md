@@ -19,27 +19,27 @@
 
 - [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
 
-- [SDS1 - Semana DevSuperior Spring React/React Native/Java - Projeto: DSPesquisa ](https://github.com/carlosjunior1983/projeto-sds1-java) `Java` `Spring Boot` `React` `React Native`
+- [SDS1 - Semana DevSuperior Spring React/React Native/Java - Projeto: DSPesquisa ](https://github.com/carlosjunior1983/projeto-sds1-java) `Java` `Spring Boot` `React` `React Native` `Maven`
 
-- [SDS3 - Semana DevSuperior Spring React/Java - Projeto: DSVendas ](https://github.com/carlosjunior1983/projeto-sds3-java) `Java` `Spring Boot` `React` `Typescript` `Axios`
+- [SDS3 - Semana DevSuperior Spring React/Java - Projeto: DSVendas ](https://github.com/carlosjunior1983/projeto-sds3-java) `Java` `Spring Boot` `React` `Typescript` `Axios` `Maven`
 
-- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` `PostgSQL`
+- [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` `PostgSQL` `Maven`
 
-- [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot` 
+- [CRUD Completo com Spring Boot REST API](https://github.com/carlosjunior1983/crud-spring-boot-rest-api) `Java` `Spring Boot` `Maven`
 	
-- [Students Management System using Spring Boot and Thymeleaf - Sample](https://github.com/carlosjunior1983/springboot-web-app-students) `Java` `Spring Boot` `Thymeleaf` `MySQL` 
+- [Students Management System using Spring Boot and Thymeleaf - Sample](https://github.com/carlosjunior1983/springboot-web-app-students) `Java` `Spring Boot` `Thymeleaf` `MySQL` `Maven`
 
-- [Spring Boot Send Email using GMAIL](https://github.com/carlosjunior1983/springboot-send-email-gmail-java) `Java` `Spring Boot`
+- [Spring Boot Send Email using GMAIL](https://github.com/carlosjunior1983/springboot-send-email-gmail-java) `Java` `Spring Boot` `Maven`
 
-- [Registration and login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL](https://github.com/carlosjunior1983/springboot-registration-login) `Java` `Spring Boot` `Spring Security` `Thymeleaf` `MySQL`
+- [Registration and login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL](https://github.com/carlosjunior1983/springboot-registration-login) `Java` `Spring Boot` `Spring Security` `Thymeleaf` `MySQL` `Maven`
 
-- [Spring MVC: Created web app with Thymeleaf and Bootstrap - Project MUDI ](https://github.com/carlosjunior1983/springboot-mvc-project-mudi) `Java` `Spring Boot` `Thymeleaf` `Validation` `MySQL`
+- [Spring MVC: Created web app with Thymeleaf and Bootstrap - Project MUDI ](https://github.com/carlosjunior1983/springboot-mvc-project-mudi) `Java` `Spring Boot` `Thymeleaf` `Validation` `MySQL` `Maven`
 
-- [Spring Boot API REST: Construa uma API - FORUM com Segurança da API, Cache e Monitoramento.](https://github.com/carlosjunior1983/springboot-api-rest-forum) `Java` `Spring Boot` `Spring MVC` `Spring Security` `MySql` `Cache` `Actuator` `Spring Boot Admin-Server` `Swagger`
+- [Spring Boot API REST: Construa uma API - FORUM com Segurança da API, Cache e Monitoramento.](https://github.com/carlosjunior1983/springboot-api-rest-forum) `Java` `Spring Boot` `Spring MVC` `Spring Security` `MySql` `Cache` `Actuator` `Spring Boot Admin-Server` `Swagger` `Maven`
 
-- [Spring Boot Admin-Server (For monitoring)](https://github.com/carlosjunior1983/springboot-admin-server-monitoring) `Java` `Spring Boot` `Spring Boot Admin-Server`
+- [Spring Boot Admin-Server (For monitoring)](https://github.com/carlosjunior1983/springboot-admin-server-monitoring) `Java` `Spring Boot` `Spring Boot Admin-Server` `Maven`
 
-- [Spring Boot CRUD AWS Deployment (Simple Example)](https://github.com/carlosjunior1983/springboot-aws-deploy) `Java` `Spring Boot` `AWS` `AWS(RDS)` `AWS(Elastic Beanstalk)`
+- [Spring Boot CRUD AWS Deployment (Simple Example)](https://github.com/carlosjunior1983/springboot-aws-deploy) `Java` `Spring Boot` `AWS` `AWS(RDS)` `AWS(Elastic Beanstalk)` `Maven`
 
 
 
