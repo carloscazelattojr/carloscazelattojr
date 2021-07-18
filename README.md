@@ -13,7 +13,9 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="Postgres SQL"/></code>    
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular"/></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS"/></code>
+
 
 
 ## Java (in study)
