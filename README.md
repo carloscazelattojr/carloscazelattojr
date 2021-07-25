@@ -22,7 +22,7 @@
 
 - [Campo Minado console Java](https://github.com/carlosjunior1983/campo-minado-java) `Java`
 
-- [SDS1 - Semana DevSuperior Spring React/React Native/Java - Projeto: DSPesquisa ](https://github.com/carlosjunior1983/projeto-sds1-java) `Java` `Spring Boot` `React` `React Native` `Maven`
+- [SDS1 - Semana DevSuperior Spring React/Java - Projeto: DSPesquisa ](https://github.com/carlosjunior1983/projeto-sds1-java) `Java` `Spring Boot` `React` `Maven`
 
 - [SDS3 - Semana DevSuperior Spring React/Java - Projeto: DSVendas ](https://github.com/carlosjunior1983/projeto-sds3-java) `Java` `Spring Boot` `React` `Typescript` `Axios` `Maven`
 
