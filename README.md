@@ -47,11 +47,12 @@
 
 
 
-
+ 
 
 
 ## Quick Configuration Files / Tips (Java/Spring)
 
 - [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
+- [Spring Boot Tips](https://github.com/carlosjunior1983/springboot-tips)
 
 
