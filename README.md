@@ -44,7 +44,7 @@
 
 - [Spring Boot CRUD AWS Deployment (Simple Example)](https://github.com/carlosjunior1983/springboot-aws-deploy) `Java` `Spring Boot` `AWS` `AWS(RDS)` `AWS(Elastic Beanstalk)` `Maven`
 
-- [Java Back-End Engineer com Spring Boot - Projeto Grade Curricular - Rasmoo]https://github.com/carlosjunior1983/spring-boot-java-rasmoo) `Java` `Spring Boot` `Lombok` `PostgreSQL` `Actuator` `ModelMapper` `SonarLint`
+- [Java Back-End Engineer com Spring Boot - Projeto Grade Curricular - Rasmoo](https://github.com/carlosjunior1983/spring-boot-java-rasmoo) `Java` `Spring Boot` `Lombok` `PostgreSQL` `Actuator` `ModelMapper` `SonarLint`
 
 
  
