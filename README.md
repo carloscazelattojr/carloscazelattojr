@@ -46,6 +46,9 @@
 
 - [Java Back-End Engineer com Spring Boot - Projeto Grade Curricular - Rasmoo](https://github.com/carlosjunior1983/spring-boot-java-rasmoo) `Java` `Spring Boot` `Lombok` `PostgreSQL` `Actuator` `ModelMapper` `SonarLint`
 
+- [Semana Mergulho Spring REST - Algaworks](https://github.com/carlosjunior1983/springboot-Algaworks-Logistica) `Java` `Spring Boot` `Lombok` `MySQL` `Migrator` `ModelMapper`
+
+
 
  
 
