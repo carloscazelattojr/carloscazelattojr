@@ -24,6 +24,8 @@
 
 - [SDS1 - Semana DevSuperior Spring React/Java - Projeto: DSPesquisa ](https://github.com/carlosjunior1983/projeto-sds1-java) `Java` `Spring Boot` `React` `Maven`
 
+- [SDS2 - Semana DevSuperior Spring React/Java - Projeto: DSDelivery ](https://github.com/carlosjunior1983/projeto-sds2-spring) `Java` `Spring` `React` `PostgreSQL` `Maven`
+ 
 - [SDS3 - Semana DevSuperior Spring React/Java - Projeto: DSVendas ](https://github.com/carlosjunior1983/projeto-sds3-java) `Java` `Spring Boot` `React` `Typescript` `Axios` `Maven`
 
 - [Microsserviços Java com Spring Boot e Spring Cloud](https://github.com/carlosjunior1983/ms-course) `Java` `Feign` `Ribbon` `Eureka` `Hytrix` `Zuul` `Spring Boot` `Spring` `Sprint Cloud` `PostgSQL` `Maven`
