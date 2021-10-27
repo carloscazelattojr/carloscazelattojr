@@ -1,10 +1,16 @@
   # Carlos Cazelatto Jr 🤘🏻 :fist_oncoming: 🇧🇷 
+  ### Software Engineer / ERP / Java Back-End
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/)
+[![Linkedin Badge](https://img.shields.io/badge/-CarlosCazelattoJr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/) [![Gmail Badge](https://img.shields.io/badge/-carlosjunior1983@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjunior1983@gmail.com)](mailto:carlosjunior1983@gmail.com)
 
-
+<br>
 🚀 Constant learning and always ahead!
+
+
+<br>
+
+## Tecnologies ⚡
 
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" /></code>
@@ -18,7 +24,7 @@
 
 
 
-## Java (in study)
+## Java  Projects (in study) :computer:
 
 
 - [DevDOJO - Java](https://github.com/carlosjunior1983/devdojo-java) `Java`
