@@ -59,6 +59,9 @@
 
 - [Semana Mergulho Spring REST - Algaworks](https://github.com/carlosjunior1983/springboot-Algaworks-Logistica) `Java` `Spring Boot` `Lombok` `MySQL` `Migrator` `ModelMapper`
 
+- [Building Real-Time REST APIs with Spring Boot - Blog App](https://github.com/carlosjunior1983/springboot-blog-rest-api) `Java` `Spring Boot` `Lombok` `MySQL`  `Maven`
+
+
 
 
  
