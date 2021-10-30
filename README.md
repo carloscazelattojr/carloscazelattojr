@@ -2,7 +2,7 @@
   ### Software Engineer / ERP / Java Back-End
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-CarlosCazelattoJr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/) [![Gmail Badge](https://img.shields.io/badge/-carlosjunior1983@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlosjunior1983@gmail.com)](mailto:carlosjunior1983@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-CarlosCazelattoJr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carloscazelattojr/)](https://www.linkedin.com/in/carloscazelattojr/)
 
 <br>
 🚀 Constant learning and always ahead!
