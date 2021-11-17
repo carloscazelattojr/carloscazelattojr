@@ -71,5 +71,8 @@
 
 - [application.properties for Spring-Boot: DB config](https://github.com/carlosjunior1983/application.properties)
 - [Spring Boot Tips](https://github.com/carlosjunior1983/springboot-tips)
+- [application-properties.html (Documentação/Documentation)](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html)
+
+
 
 
