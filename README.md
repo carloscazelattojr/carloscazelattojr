@@ -63,6 +63,7 @@
 
 - [Building Real-Time REST APIs with Spring Boot - Blog App](https://github.com/carlosjunior1983/springboot-blog-rest-api) `Java` `Spring Boot` `Lombok` `MySQL`  `Maven` `Swagger Fox` `AWS` `AWS(Elastic Beanstalk)`
 
+- [Spring Boot Envio Email com Mensageria RabbitMQ](https://github.com/carlosjunior1983/ms-email-java-spring) `Java` `Spring Boot` `Maven` `Gmail` `PostgreSQL` `RabbitMQ`
 
 
 
