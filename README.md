@@ -83,3 +83,8 @@
 
 [other-repositories](https://github.com/carlosjunior1983/other-repositories/blob/main/README.md) 
 
+
+# API for Studies
+
+- [Pokemo API - Pokedex](https://pokeapi.co/api/v2/pokemon?offset=1&limit=2000)
+
