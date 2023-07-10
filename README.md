@@ -1,6 +1,6 @@
 ## Hi 🤘🏻, I’m Carlos Junior
 
-- 💻 Software Engineer and architecture enthusiast.
+- 💻 Software Engineer and Architecture enthusiast.
 - ☕ Java | React | React-Native 
 - 🚀 Constant learning and always ahead!
 
