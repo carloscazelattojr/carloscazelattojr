@@ -1,6 +1,8 @@
 ## 🤘🏻 Carlos Cazelatto Junior
 
 - 💻 Software Engineer and Architecture enthusiast.
-- ☕ Java | Android | Kotlin | React | React-Native 
+- ☕ Front-End: JavaScript | React | Angular
+- ☕ Back-End: Java | Kotlin | NodeJS
+- ☕ Mobile: Android | React Native
 - 🚀 Constant learning and always ahead!
 
